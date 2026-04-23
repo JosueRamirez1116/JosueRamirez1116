@@ -96,14 +96,13 @@ Outside the tech world, I enjoy 🎮 playing video games, 🎵 listening to musi
 
 <p align="center">
   <a href="https://github.com/JosueRamirez1116">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JosueRamirez1116&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueRamirez1116&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/JosueRamirez1116">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JosueRamirez1116&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRamirez1116&layout=compact&langs_count=10&theme=algolia&card_width=320&hide=html,css"/>
   </a>
 </p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRamirez1116&theme=dark&hide_border=true"/>
 </p>
-

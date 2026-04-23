@@ -92,17 +92,27 @@ Outside the tech world, I enjoy 🎮 playing video games, 🎵 listening to musi
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+## Github Stats
 
-<p align="center">
-  <a href="https://github.com/JosueRamirez1116">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueRamirez1116&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/JosueRamirez1116">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRamirez1116&layout=compact&langs_count=10&theme=algolia&card_width=320&hide=html,css"/>
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=JosueRamirez1116&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRamirez1116&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRamirez1116&layout=compact&theme=github_dark"/>|
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRamirez1116&theme=dark&hide_border=true"/>
+
+### Connect with me 🔗 :
+<br>
+<p align='center'>
+<a href="mailto:josueramirez1116@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/josue_ra1116/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/josue.ramirez.968119" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://wa.me/50433668766" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+
 </p>
+<br>
+
